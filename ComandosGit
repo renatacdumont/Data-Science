@@ -1,0 +1,7 @@
+Comandos basicos do Git
+
+git add (adiciona novos arquivos ao index do Git para fins de controle de versão)
+git add -u (lida com todas as mudanças de arquivos adiconar, apagar, alterar)
+git add -A (executa o git add e o git add -u conjuntamente)
+git commit -m "message" (faz comite das altereções realizadas, sendo que no paramentro "message" encontra-se o resumo da alteração realizada)
+git push (Salva alterações no Github)
